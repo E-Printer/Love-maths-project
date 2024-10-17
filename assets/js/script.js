@@ -144,7 +144,7 @@ function displayMultiplyQuestion(operand1, operand2) {
 
 }
 
-// Add your division question here
+
 function displayDivisionQuestion(operand1, operand2) {
     operand1 = operand1 * operand2;
     document.getElementById("operand1").textContent = operand1;
